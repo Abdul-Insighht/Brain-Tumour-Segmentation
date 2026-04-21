@@ -49,7 +49,7 @@ python main.py
 
 ---
 
-Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by **Abdul-Insighht** - Data Science Specialist | AI Agent & Agentic AI Developer
+Made with using Python & AI Technologies Demonstration by **Abdul-Insighht** - Data Science Specialist | AI Agent & Agentic AI Developer
 
 ---
 
@@ -60,7 +60,7 @@ Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by 
 <td>
 
 **Hafiz Abdul Rehman**  
-[Abdul-Insighht](https://github.com/Abdul-Insighht) Â· he/him  
+[Abdul-Insighht](https://github.com/Abdul-Insighht) he/him  
 **Data Science Specialist | AI Agent & Agentic AI Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abdul--Insighht-181717?style=flat-square&logo=github)](https://github.com/Abdul-Insighht)
@@ -83,5 +83,5 @@ This project is licensed under the **MIT License**.
 </div>
 
 <div align="center">
-  <sub>From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> â€” Passionate about AI, ML, and solving real-world problems</sub>
+  <sub>From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> Passionate about AI, ML, and solving real-world problems</sub>
 </div>
