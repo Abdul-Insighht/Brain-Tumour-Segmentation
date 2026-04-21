@@ -8,14 +8,14 @@ Brain tumor segmentation using Attention U-Net on BraTS 2020 dataset achieving 9
 
 ---
 
-## Project Status: âœ… COMPLETE & READY FOR DEPLOYMENT
+## Project Status: COMPLETE & READY FOR DEPLOYMENT
 
 ![GitHub stars](https://img.shields.io/github/stars/Abdul-Insighht/=social)
 ![GitHub forks](https://img.shields.io/github/forks/Abdul-Insighht/=social)
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
 Python, TensorFlow, Keras, Attention U-Net, Medical Imaging
@@ -23,7 +23,7 @@ Python, TensorFlow, Keras, Attention U-Net, Medical Imaging
 
 ---
 
-## ðŸš€ Getting Started
+## Getting Started
 
 1. **Clone the repository**
 ```bash
@@ -43,9 +43,9 @@ python main.py
 
 ---
 
-## â­ Quick Links
+## Quick Links
 
-â­ [Star this repo](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation) â€¢ ðŸ› [Report Bug](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation/issues) â€¢ ðŸ’¡ [Request Feature](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation/issues)
+[Star this repo](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation)  [Report Bug](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation/issues)  [Request Feature](https://github.com/Abdul-Insighht/Brain-Tumour-Segmentation/issues)
 
 ---
 
@@ -53,7 +53,7 @@ Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by 
 
 ---
 
-## ðŸ‘¤ Author
+##Author
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by 
 
 ---
 
-## ðŸ“„ License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -83,5 +83,5 @@ This project is licensed under the **MIT License**.
 </div>
 
 <div align="center">
-  <sub>â­ï¸ From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> â€” Passionate about AI, ML, and solving real-world problems</sub>
+  <sub>From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> â€” Passionate about AI, ML, and solving real-world problems</sub>
 </div>
